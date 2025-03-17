@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a first-year university student with a passion
 - Developing consistency in coding and learning
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: [Your LinkedIn Profile](#)
-- 📩 Email: [Your Email](#)
+- 💼 LinkedIn: Bogdan Rusakov(#)
+- 📩 Email: bogdanrusakovr@gmail.com(#)
 
 Let's connect and grow together in the tech world! 🚀
 
