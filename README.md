@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**ahbodya/ahbodya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a first-year university student with a passion for programming and problem-solving. Currently, I'm learning C++ and focusing on improving my logical thinking and coding skills. My goal is to become a successful programmer and continuously grow in the tech industry.
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- 🏫 **Student** | First-year university student
+- 💼 **Work** | Part-time Sales Associate at Fantastiko
+- 💻 **Aspiring Developer** | Beginner-level programmer aiming to master C++ and beyond
+- 🏆 **Goals** | Improve problem-solving, logical thinking, and organization skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech & Learning
+- 🔷 C++ (currently focused on mastering arrays)
+- 🔢 Number theory & modular arithmetic (for university)
+- 🛠️ IT support experience (interned as a service desk technician)
+- 📌 Exploring programming concepts and data structures
+
+## 📌 Current Focus
+- Understanding and solving C++ array problems
+- Learning advanced problem-solving techniques
+- Developing consistency in coding and learning
+
+## 📫 Connect with Me
+- 💼 LinkedIn: [Your LinkedIn Profile](#)
+- 📩 Email: [Your Email](#)
+
+Let's connect and grow together in the tech world! 🚀
+
