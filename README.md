@@ -1,27 +1,51 @@
-# Hi there! 👋
+# 👋 Hi, I'm Bohdan
 
-Welcome to my GitHub profile! I'm a first-year university student with a passion for programming and problem-solving. Currently, I'm learning C++ and focusing on improving my logical thinking and coding skills. My goal is to become a successful programmer and continuously grow in the tech industry.
+🎓 Second-year Informatics student passionate about programming and problem-solving.  
+I enjoy breaking down complex problems, thinking logically, and continuously improving my coding skills.
 
-## 🔹 About Me
-- 🏫 **Student** | First-year university student
-- 💼 **Work** | Part-time Sales Associate at Fantastiko
-- 💻 **Aspiring Developer** | Beginner-level programmer aiming to master C++ and beyond
-- 🏆 **Goals** | Improve problem-solving, logical thinking, and organization skills
+---
 
-## 🚀 Tech & Learning
-- 🔷 C++ (currently focused on mastering arrays)
-- 🔢 Number theory & modular arithmetic (for university)
-- 🛠️ IT support experience (interned as a service desk technician)
-- 📌 Exploring programming concepts and data structures
+## 🎯 About Me
+- 🎓 Second-year Informatics student  
+- 🧠 Focused on developing strong algorithmic thinking  
+- 🚀 Working on consistency and discipline in learning  
 
-## 📌 Current Focus
-- Understanding and solving C++ array problems
-- Learning advanced problem-solving techniques
-- Developing consistency in coding and learning
+---
 
-## 📫 Connect with Me
-- 💼 LinkedIn: [Bogdan Rusakov](https://www.linkedin.com/in/bogdan-rusakov-b5a82b2a3/)(#)
-- 📩 Email: bogdanrusakovr@gmail.com(#)
+## 💻 Tech Stack & Skills
+**Languages:**  
+- C++  
+- Java  
+- Python  
 
-Let's connect and grow together in the tech world! 🚀
+**Core Focus:**  
+- Arrays & Data Structures (C++)  
+- Problem-solving & Algorithms  
+- Number Theory & Modular Arithmetic  
 
+**Experience:**  
+- IT Support Intern (Service Desk)  
+  - Software installation & troubleshooting  
+  - System and user support  
+
+---
+
+## 🔥 Current Focus
+- Mastering arrays and problem-solving in C++  
+- Improving algorithmic thinking through practice  
+- Building consistent learning habits  
+
+---
+
+## 🌱 Goals
+- Strong foundation in Data Structures & Algorithms  
+- Real-world programming experience  
+- Internship / Junior Developer position  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: [Bogdan Rusakov](https://www.linkedin.com/in/bogdan-rusakov-b5a82b2a3/)  
+- 📩 Email: bogdanrusakovr@gmail.com  
+
+---
